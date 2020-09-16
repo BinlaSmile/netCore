@@ -1,0 +1,2 @@
+# netCore
+.netCore Demo Repository
